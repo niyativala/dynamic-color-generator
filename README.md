@@ -33,12 +33,16 @@ This project demonstrates DOM manipulation, event handling, and dynamic styling 
 ---
 
 ## 📂 Project Structure
-dynamic-color-generator/
-│
-├── index.html
-├── style.css
-├── app.js
-└── README.md
+index.html → UI structure  
+style.css → Design and layout  
+app.js → Functionality  
+
+---
+
+🎯 How to Use
+- Clone the repository  
+- Open index.html in your browser  
+- Click the button to generate colors 
 
 ---
 
@@ -60,3 +64,6 @@ dynamic-color-generator/
 If you like this project, give it a ⭐ on GitHub!
 
 ---
+
+## Note
+
