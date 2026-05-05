@@ -53,6 +53,14 @@ app.js → Functionality
 - Dynamic Style Manipulation  
 - Random Number Generation in JavaScript  
 
+---
+
+## 📌 Future Improvements
+
+- 📋 Copy color code to clipboard  
+- 🌈 Gradient generator  
+- 🧾 Color history feature  
+
 ## 👩‍💻 Author
 
 **Niyati Vala**  
@@ -65,5 +73,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-## Note
-
+## ⭐ Note
+This is a beginner-level project created for learning JavaScript basics.
