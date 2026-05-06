@@ -19,7 +19,7 @@ This project demonstrates DOM manipulation, event handling, and dynamic styling 
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
