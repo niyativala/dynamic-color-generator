@@ -23,6 +23,13 @@ This project demonstrates DOM manipulation, event handling, and dynamic styling 
 
 ---
 
+## 📂 Project Structure
+index.html → UI structure  
+style.css → Styling and layout  
+app.js → Color generation logic  
+
+---
+
 ## ⚙️ How It Works
 
 1. Click the **Generate Color** button  
@@ -32,26 +39,19 @@ This project demonstrates DOM manipulation, event handling, and dynamic styling 
 
 ---
 
-## 📂 Project Structure
-index.html → UI structure  
-style.css → Design and layout  
-app.js → Functionality  
+## ▶️ How to Run Project
+
+1. Download or clone this repository
+2. Open `index.html` in your browser
+3. Start generating colors 🎨
 
 ---
 
-🎯 How to Use
-- Clone the repository  
-- Open index.html in your browser  
-- Click the button to generate colors 
+### 📊 Project Logic (Simple)
 
----
-
-## 🧠 Key Concepts Used
-
-- DOM Selection (`querySelector`)  
-- Event Listeners (`addEventListener`)  
-- Dynamic Style Manipulation  
-- Random Number Generation in JavaScript  
+* JavaScript generates random RGB/HEX values
+* Generated color is applied to background
+* Color code is shown on screen 
 
 ---
 
